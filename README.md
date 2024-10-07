@@ -1,7 +1,8 @@
 
-### Study Materials Tracker
+### operating systems
+---
 
-| **Name** | **Status** | **Type** | **Notes** |
-| --- | --- | --- | --- |
-| C How to program with an intro to c++ | in progress | Book |  |  
-| operating systems concepts | in progress | Book |  |  
+| Name                                | Status          | about             | Notes              |
+|---------------------------------------|-----------------|--------------------|---------------------------|
+| [ Operating System Concepts                     | In Progress   | book           | None                      |
+
